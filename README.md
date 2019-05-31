@@ -7,7 +7,7 @@ Prerequisites: [Python 3](https://www.python.org/downloads/), [pip](https://pip.
 2. Run `pip install requests`
 3. Download [typewriter.py](https://raw.githubusercontent.com/sidward35/typewriter/master/typewriter.py)
 4. Open terminal and `cd` into the directory where the file was downloaded
-5. Open a text editor, create a new workspace (where the program can type its code), and then alt+tab back to the terminal
+5. Open a text editor, create a new workspace (where the program can type its code), and then alt+tab back to the terminal (for syntax highlighting you may want to save the workspace as a blank Python file first)
 6. Run `python typewriter.py`
 
 ## Sample output
