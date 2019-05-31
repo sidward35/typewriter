@@ -1,7 +1,16 @@
 # typewriter
 Python file that writes gibberish Python code
 
-## Sample output:
+## Instructions
+Prerequisites: [Python 3](https://www.python.org/downloads/), [pip](https://pip.pypa.io/en/stable/installing/) (usually comes preinstalled with Python 3)
+1. Run `pip install pyautogui`
+2. Run `pip install requests`
+3. Download [typewriter.py](https://raw.githubusercontent.com/sidward35/typewriter/master/typewriter.py)
+4. Open terminal and `cd` into the directory where the file was downloaded
+5. Open a text editor, create a new workspace (where the program can type its code), and then alt+tab back to the terminal
+6. Run `python typewriter.py`
+
+## Sample output
 
 ```python
 from jettison import whim
